@@ -1,0 +1,1 @@
+prompt_lur=['\nHuman: hey', '\nHuman: hey', '\nHuman: & C:/Users/Fikri/AppData/Local/Programs/Python/Python38/python.exe d:/script/PYTHON/ai/tes.py']
