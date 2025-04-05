@@ -22,6 +22,11 @@ Install them using pip:
 ```bash
 pip install pyaudio speechrecognition pyttsx3 openai
 ```
+Run:
+
+```bash
+python ai.py
+```
 
 ## Usage
 
